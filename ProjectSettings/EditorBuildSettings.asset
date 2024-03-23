@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Vacuum.unity
+    guid: e838645e31e269945b427865433c96fc
+  - enabled: 1
+    path: Assets/Scenes/Level 2 - Gravity.unity
+    guid: b36d9a547abef1242a972b57df4d1bd9
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - Wind.unity
+    guid: 7362e795f664a614f8f19150884c4d0d
+  - enabled: 1
+    path: Assets/Scenes/Level 4 - Super Strong Wind.unity
+    guid: 7cc75b4b98c5e44489b255b86fbb93be
   m_configObjects: {}
