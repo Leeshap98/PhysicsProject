@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class WindController : MonoBehaviour
 {
-    [SerializeField] Vector3 windDirectionWorld = new Vector3(1f, 0, 0); // Adjust the values to set the wind direction and magnitude
+    // Adjust the values to set the wind direction and magnitude
+    [SerializeField] Vector3 windDirectionWorld = new Vector3(1f, 0, 0);
     [Range(1, 3)]
     [SerializeField] int windStrength = 3;
 
